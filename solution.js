@@ -1,2 +1,3 @@
-pol = () => {console.log('I\'m allliiiiiiive!!!!')};
-
+function double(array){
+    return array.map(x => x * 2)
+};
